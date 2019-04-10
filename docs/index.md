@@ -27,8 +27,7 @@
 {
   "success": true,
   "email": "ingvarparko@gmail.com",
-  "formattedName": "Igor Parkhomenko",
-  ...
+  "formattedName": "Igor Parkhomenko"
 }
 ```
 
@@ -68,7 +67,7 @@
 ```json
 {
   "scores": "786",
-  "signature": "873823323323"
+  "signature": "873823323323AC",
   "success": true
 }
 ```
